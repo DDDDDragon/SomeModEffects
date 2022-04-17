@@ -1,4 +1,4 @@
 # SomeModEffects
 一些常用效果的基类，要用的自取
 
-* ScreenModifier
+* CameraModifiers文件夹与EffectPlayer文件是关于屏幕效果的一些代码，如果想要使用，可以在Mod目录下新建一个Effect文件夹，再把这两个下载到Effect文件夹中，然后这两个中所有的文件的命名空间ElementMachine改成你自己的Mod名字。其中包含两个效果：震屏效果和平滑移动屏幕效果。
